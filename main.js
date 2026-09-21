@@ -1,6 +1,6 @@
 //1-masala Bigginer
 let R = 2;
 const PI = 3.14;
-let L = 2 * 3.14 * 2;
-let S = 3.14 * Math.pow(R, 2);
+let L = 2 * PI * 2;
+let S = 3.1 * Math.pow(R, 2);
 console.log("Uzunligi =" ,L, "Yuzasi = " ,S,);
