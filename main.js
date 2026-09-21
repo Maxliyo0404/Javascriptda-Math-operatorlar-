@@ -20,4 +20,4 @@
 // 4-masala Bigginer
 
 let X = 2;
-let A = 3;;;
+let A = 3;
