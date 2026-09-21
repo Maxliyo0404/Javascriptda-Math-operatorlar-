@@ -1,1 +1,3 @@
-//1-masala 
+//1-masala Bigginer
+let R = 2;
+
