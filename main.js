@@ -6,3 +6,6 @@
 // console.log("Uzunligi =" ,L, "Yuzasi = " ,S,);
 
 //2-masala Bigginer
+
+let a = 4;
+let b = 3;
