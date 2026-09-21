@@ -14,4 +14,4 @@
 
 // 3-masala
   let x = 4;
-  let y = 
+  let y = 3 * Math.pow(x, 6)
