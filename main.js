@@ -19,10 +19,10 @@
   
 // 4-masala Bigginer
 
-let X = 4;
-let A = 1600;
-let Y = 2;
-let birkg = A / X;
-let result = birkg * Y;
-console.log("1kg konfet narxi" ,birkg);
-console.log(Y + " 1kg konfet narxi:", result);
+// let X = 4;
+// let A = 1600;
+// let Y = 2;
+// let birkg = A / X;
+// let result = birkg * Y;
+// console.log("1kg konfet narxi" ,birkg);
+// console.log(Y + " 1kg konfet narxi:", result);
