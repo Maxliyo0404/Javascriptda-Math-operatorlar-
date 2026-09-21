@@ -21,6 +21,6 @@
 
 let X = 4;
 let A = 1600;
-let y = 2;
-let result = (A / X) * y;
+let Y = 2;
+let result = (A / X) * Y;
 console.log(result);
