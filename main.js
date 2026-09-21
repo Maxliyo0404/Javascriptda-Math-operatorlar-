@@ -7,7 +7,7 @@
 
 //2-masala Bigginer
 
-let a = 4;
-let b = 3;
+let a = 9;
+let b = 9;
 let G = Math.sqrt(a * b);
 console.log(G);
