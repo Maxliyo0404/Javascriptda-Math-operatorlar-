@@ -12,4 +12,4 @@
 // let G = Math.sqrt(a * b);
 // console.log(G);
 
-3-masala
+// 3-masala
