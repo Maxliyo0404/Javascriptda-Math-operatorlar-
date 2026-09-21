@@ -23,5 +23,5 @@ let X = 4;
 let A = 1600;
 let Y = 2;
 let bir = A / X;
-let result = ) * Y;
+let result = bir * Y;
 console.log(result);
