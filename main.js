@@ -21,3 +21,4 @@
 
 let X = 4;
 let A = 1600;
+let result = 
