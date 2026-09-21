@@ -21,4 +21,5 @@
 
 let X = 4;
 let A = 1600;
-let result = (A / X)
+let result = (A / X) * y;
+console.log(result);
