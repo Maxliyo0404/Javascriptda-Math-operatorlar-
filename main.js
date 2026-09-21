@@ -9,4 +9,5 @@
 
 let a = 4;
 let b = 3;
-let G = Math.sqrt
+let G = Math.sqrt(a * b);
+console.log(G);
