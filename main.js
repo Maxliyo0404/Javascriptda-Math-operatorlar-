@@ -2,3 +2,4 @@
 let R = 2;
 const PI = 3.14;
 let L = 2 * 3.14 * 2;
+let S = 3.14 * Math.pow(R, 2)
