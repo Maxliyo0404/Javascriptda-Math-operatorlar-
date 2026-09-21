@@ -18,3 +18,6 @@
 //   console.log(y);
   
 // 4-masala Bigginer
+
+let X = 2;
+let 
