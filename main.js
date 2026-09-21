@@ -24,4 +24,4 @@ let A = 1600;
 let Y = 2;
 let bir = A / X;
 let result = bir * Y;
-console.log(result);
+console.log("1kg konfet narxi" ,bir);
