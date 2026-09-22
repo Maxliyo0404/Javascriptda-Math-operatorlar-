@@ -141,3 +141,10 @@
 // let S = PI * Math.pow(R, 2);
 // console.log("Radiusi = ", R);
 // console.log("Yuzasi = ", S);
+
+//9. Begin
+
+let x1 = 3;
+let y1 = 6;
+let x2 = 4;
+let y2 = 5;
