@@ -106,3 +106,5 @@
 // let S = 2 * (a * b + b * c + a * c);
 //  console.log("hajmi =" ,V,);
 //  console.log("sirti =" ,S,);
+
+//5. Begin
