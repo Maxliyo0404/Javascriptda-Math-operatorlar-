@@ -127,4 +127,4 @@ let r1 = 36;
 let r2 = 18;
 const PI = 3.14;
 let S1 = PI * r1;
-let S2 = PI * r1;
+let S2 = PI * r2;
