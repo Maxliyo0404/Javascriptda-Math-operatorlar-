@@ -112,3 +112,7 @@
 // let b = 20;
 // let M = (a + b) / 2;
 // console.log( "O'rta arfimetik =",M,);
+
+//6. Begin
+let a = 12;
+let b = 4;
