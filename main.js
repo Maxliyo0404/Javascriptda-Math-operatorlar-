@@ -108,3 +108,5 @@
 //  console.log("sirti =" ,S,);
 
 //5. Begin
+let a = 20;
+let b = 5;
