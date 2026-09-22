@@ -117,4 +117,6 @@
 let a = 12;
 let b = 4;
 let c = Math.sqrt(Math.pow(a,2)+ Math.pow(a,2));
-let P = a + b + c
+let P = a + b + c;
+console.log("gipotezasi = " ,c,);
+
