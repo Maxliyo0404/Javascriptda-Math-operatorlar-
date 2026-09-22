@@ -109,6 +109,6 @@
 
 //5. Begin
 let a = 20;
-let b = 5;
+let b = 20;
 let M = (a + b) / 2;
 console.log(M);
