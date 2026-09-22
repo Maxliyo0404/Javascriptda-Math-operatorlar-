@@ -111,4 +111,4 @@
 let a = 20;
 let b = 20;
 let M = (a + b) / 2;
-console.log(M);
+console.log( "O'rta arfimetik ="M);
