@@ -121,3 +121,7 @@
 // console.log("gipotenuza = " ,c,);
 // console.log("peremetri = " ,P,);
 
+//7. Begin
+
+let r1 = 36;
+let r2 = 18;
