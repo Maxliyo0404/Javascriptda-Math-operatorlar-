@@ -116,3 +116,4 @@
 //6. Begin
 let a = 12;
 let b = 4;
+let c = Math.sqrt
