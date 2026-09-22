@@ -153,3 +153,36 @@
 // console.log("L masofa =" , L,);
 
 //10. Begin
+// let A = 2;
+// let B = 4;
+// let C = 6;
+// let temp = A
+// A = B;
+// B = C;
+// C = temp;
+// console.log("A sonininy qiymati =" ,A,);
+//  console.log("B sonininy qiymati =" ,B,);
+//  console.log("C sonininy qiymati =" ,C,);
+ 
+//11. Begin
+// let x = 12;
+// let y = 4 * Math.pow(x-3, 6 - 7 ) * Math.pow(x-3, 3 + 2 );
+// console.log("y qiymat =" ,y,);
+
+//12. Begin
+//let A = 4;
+//let a3 = Math.pow(A, 3);
+//let a6 = Math.pow(A, 6);
+//let a9 = Math.pow(A, 9);
+//let a15 = Math.pow(A, 15);
+//
+//console.log("A^3 =", a3);
+//console.log("A^6 =", a6);
+//console.log("A^9 =", a9);
+//console.log("A^15 =", a15);
+
+
+//13. Begin
+// let Tf = 4;
+// let Tc = (Tf - 32) * 5 / 9;
+// console.log("gradus selsiy =" ,Tc,);
