@@ -130,4 +130,6 @@ let S1 = PI * r1;
 let S2 = PI * r2;
 let S = PI * (Math.pow(r1, 2) - Math.pow(r2, 2));
 console.log("Yuzi =" ,S1,);
+console.log("Yuzi =" ,S2,);
+console.log("Yuzi =" ,S1,);
 
