@@ -114,10 +114,10 @@
 // console.log( "O'rta arfimetik =",M,);
 
 //6. Begin
-let a = 12;
-let b = 4;
-let c = Math.sqrt(Math.pow(a,2)+ Math.pow(a,2));
-let P = a + b + c;
-console.log("gipotezasi = " ,c,);
-console.log("peremetri = " ,P,);
+// let a = 24;
+// let b = 12;
+// let c = Math.sqrt(Math.pow(a, 2)+ Math.pow(b, 2));
+// let P = a + b + c;
+// console.log("gipotenuza = " ,c,);
+// console.log("peremetri = " ,P,);
 
