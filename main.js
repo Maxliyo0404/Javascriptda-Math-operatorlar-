@@ -144,7 +144,12 @@
 
 //9. Begin
 
-let x1 = 3;
-let y1 = 6;
-let x2 = 4;
-let y2 = 5;
+// let x1 = 3;
+// let y1 = 6;
+// let x2 = 4;
+// let y2 = 5;
+ 
+// let L = Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y1 - y2, 2) );
+// console.log("L masofa =" , L,);
+
+//10. Begin
