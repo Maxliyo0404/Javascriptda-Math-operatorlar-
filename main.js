@@ -111,3 +111,4 @@
 let a = 20;
 let b = 5;
 let M = (a + b) / 2;
+console.log(M);
