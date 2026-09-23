@@ -189,3 +189,30 @@
 
 
 //14. Begin
+// let X = 2;
+// let A = 24000;
+// let Y = 4;
+// let B = 12000;
+// let shokolod = A / X;
+// let konfet = B / Y;
+// let natija = shokolod - konfet;
+// console.log("narx qimmat =" ,natija);
+
+//15. Begin
+// let X = 2;
+// let A = 24000;
+// let Y = 4;
+// let B = 12000;
+// console.log();
+// let jami = (X * A) + (Y * B);
+// console.log("Jami  = ", jami);
+
+
+// 1. Integer
+// let son = 243;
+// let a = Math.floor(son  % 10);
+// let b = Math.floor(son  / 10 % 10);
+// let c = Math.floor(son  / 100);
+// console.log("birlar xonasidagi son =" ,a);
+// console.log("o'nlar xonasidagi son =" ,b);
+// console.log("yuzlar xonasidagi son =" ,c);
