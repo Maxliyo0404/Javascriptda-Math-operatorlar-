@@ -186,3 +186,6 @@
 // let Tf = 4;
 // let Tc = (Tf - 32) * 5 / 9;
 // console.log("gradus selsiy =" ,Tc,);
+
+
+//14. Begin
