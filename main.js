@@ -212,7 +212,32 @@
 // let son = 243;
 // let a = Math.floor(son  % 10);
 // let b = Math.floor(son  / 10 % 10);
-// let c = Math.floor(son  / 100);
 // console.log("birlar xonasidagi son =" ,a);
 // console.log("o'nlar xonasidagi son =" ,b);
-// console.log("yuzlar xonasidagi son =" ,c);
+
+
+// 2. Integer
+// let son = 869;
+//  let a = Math.floor(son  % 10);
+//  let b = Math.floor(son  / 10 % 10);
+//  let c = Math.floor(son  / 100);
+//  let natija = a + b + c;
+//  console.log("raqamlar yig'indisi =",natija);
+ 
+// 3. Integer
+// let son = 394;
+//  let a = Math.floor(son  % 10);
+//   let b = Math.floor(son  / 10 % 10);
+//   let c = Math.floor(son  / 100);
+//   let teskariSon = (a * 100) + (b * 10) + c;
+//   console.log("teskarison" ,teskariSon);
+
+  // 4. Integer
+//   let son = 123;
+//  let c = Math.floor(son / 100);      
+//  let b = Math.floor(son / 10 % 10);  
+//  let a = Math.floor(son % 10);
+//  let newSon = (b * 100) + (c * 10) + a;
+//  console.log("natija =", newSon);
+ 
+   // 5. Integer
