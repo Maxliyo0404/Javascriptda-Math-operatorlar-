@@ -284,12 +284,12 @@
 
 
 //Boolean2.
- let A = 24;
- if(A % 2 !== 0){
-  alert("true")
- }else{
-  ("false")
- }
+//  let A = 24;
+//  if(A % 2 !== 0){
+//   alert("true")
+//  }else{
+//   ("false")
+//  }
 
 
 
