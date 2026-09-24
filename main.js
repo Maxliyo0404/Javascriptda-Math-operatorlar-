@@ -372,6 +372,17 @@
   //   }
 
    //Boolean3.
+  //  let a = +prompt("a sonini kiriting");
+  //  let b = +prompt("b sonini kiriting");
+  //  let c = +prompt("c sonini kiriting");
+  //  if (a < b && b < c || c < b && b < a) {
+  //    alert("true")
+  //   }else{
+  //      ("false")
+  //   }
+   
+
+      //Boolean4.
    let a = +prompt("a sonini kiriting");
    let b = +prompt("b sonini kiriting");
-   let c = +prompt("c sonini kiriting");
+   
