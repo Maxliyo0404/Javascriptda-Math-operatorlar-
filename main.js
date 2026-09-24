@@ -351,4 +351,13 @@
   // }else{
   //  ("false")
   // }
-  
+   // Uyga vazifa
+
+
+   //Boolean1.
+    // let a = +prompt("a sonini kiriting");
+    // if (a % 2 === 0) {
+    //   alert("true")
+    // }else{
+    //   ("false")
+    // }
