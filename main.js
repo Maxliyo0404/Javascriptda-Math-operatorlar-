@@ -295,6 +295,15 @@
 
 let a = +prompt("a sonini kiriting");
 let b = +prompt("b sonini kiriting");
-
-
-  
+if (a > 2 && b <= 3) {
+  alert("true")
+}else{
+  alert("false")
+}
+let a = +prompt("a sonini kiriting");
+let b = +prompt("b sonini kiriting");
+if (a > 2 && b <= 3) {
+  alert("true")
+}else{
+  alert("false")
+}
