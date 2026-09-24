@@ -361,3 +361,12 @@
     // }else{
     //   ("false")
     // }
+
+    //Boolean2.
+    let a = +prompt("a sonini kiriting");
+   let b = +prompt("b sonini kiriting");
+    if (a >= 0 || b <-2) {
+      alert("true")
+    }else{
+       ("false")
+    }
