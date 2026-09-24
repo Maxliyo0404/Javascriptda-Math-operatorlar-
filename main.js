@@ -241,3 +241,39 @@
 //  console.log("natija =", newSon);
  
    // 5. Integer
+  //  let son = 123;//132
+  // let c = Math.floor(son / 100);      
+  // let b = Math.floor(son / 10 % 10);  
+  // let a = Math.floor(son % 10);
+  // let newSon = (c * 100) + (a * 10) + (b * 1);
+  // console.log("natija =", newSon);
+
+  // 6. Integer
+  // let son = 98123;
+  // let c = Math.floor(son / 1000) % 10;      
+
+  //  console.log( "mingliklar xonasi =",c);
+    
+
+  // let a = +prompt("a sonini kiriting");
+  // let b = +prompt("b sonini kiriting");
+  // let c = +prompt("c sonini kiriting");
+
+  // if (a === b && b !== c) {
+  //   alert("Tartib raqami 3")
+  // }else if(a === c && c !== b){
+  //    alert("Tartib raqami 2")
+  // }else if(c === b && a !== c ){
+  //    alert("Tartib raqami bir")
+  // }
+
+  
+
+
+
+
+
+
+
+
+  
