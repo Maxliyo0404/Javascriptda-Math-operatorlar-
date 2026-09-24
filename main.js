@@ -267,11 +267,29 @@
   //    alert("Tartib raqami bir")
   // }
 
+  //Boolean1.
+  // let A = 6;
+  //  if(A  > 0){
+  //   alert("true")
+  //  }else{
+  //   alert("false")
+  //  }
   
 
+//Boolean2.
+//  let A = 29;
+//  if(A % 2 !== 0){
+//   alert("true")
+//  }else("false")
 
 
-
+//Boolean2.
+ let A = 24;
+ if(A % 2 !== 0){
+  alert("true")
+ }else{
+  ("false")
+ }
 
 
 
