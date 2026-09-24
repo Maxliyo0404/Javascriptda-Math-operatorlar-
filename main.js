@@ -329,3 +329,16 @@
 //  }else{
 //   ("false")
 //  }
+
+
+// //Boolean7.
+// let son = 327;
+// let a = Math.floor(son / 100);
+// let b = Math.floor(son / 10) % 10;
+// let c = son % 10;
+//  if (a !== b && a !== c && b !== c) {
+//    alert("true")
+//   }else{
+//    ("false")
+//   }
+ 
