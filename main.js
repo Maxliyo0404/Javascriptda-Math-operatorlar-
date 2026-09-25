@@ -383,6 +383,39 @@
    
 
       //Boolean4.
-   let a = +prompt("a sonini kiriting");
-   let b = +prompt("b sonini kiriting");
-   
+  //  let a = +prompt("a sonini kiriting");
+  //  let b = +prompt("b sonini kiriting");
+  //  if (a % 2 !== 0 || b % 2 !== 0) {
+  //   alert("true")
+  //  }else{
+  //     ("false")
+  //  }
+      //Boolean5.
+    // let a = +prompt("a sonini kiriting");
+    // let b = +prompt("b sonini kiriting");
+    // if (a % 2 === 0 && b % 2 !== 0) {
+    //  alert("true")
+    // }else{
+    //    ("false")
+    // }
+      //Boolean6.
+    //  let a = +prompt("a sonini kiriting");
+    //  let b = +prompt("b sonini kiriting");
+    //  if ( (a % 2 === 0 && b % 2 !== 0) || (a % 2 !== 0 && b % 2 === 0) ) {
+    //   alert("true")
+    //  }else{
+    //     ("false")
+    //  }
+
+
+    //Boolean7.
+    let a = +prompt("a sonini kiriting");
+    let b = +prompt("b sonini kiriting");
+    let c = +prompt("c sonini kiriting")
+
+    if( (a > 0) && (b > 0) && (c > 0) ){
+       alert("true")
+     }else{
+        ("false")
+     }
+    
