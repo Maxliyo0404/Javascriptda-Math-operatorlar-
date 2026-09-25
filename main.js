@@ -466,4 +466,11 @@
       // }else{
       //     alert(" false")
       // }
-       
+        //Boolean12.
+
+        
+       let son = +prompt("uch xonali sonini kiriting");
+
+       let a  = Math.floor(son / 100)
+       let b  = Math.floor((son / 10) % 10)
+       let c  = son % 10
