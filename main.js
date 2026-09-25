@@ -511,3 +511,51 @@
     
 
       // if 1-masala
+
+      //  let son = +prompt(" sonini kiriting");
+      //  if (son > 0) {
+      //   son = son + 1
+      //  }else{
+      //   son = son - 2
+    
+      //  }
+      //      alert(son)
+
+       // if 2-masala
+
+      // let a = +prompt("a sonini kiriting");
+      // let b = +prompt("b sonini kiriting");
+      // let c = +prompt("c sonini kiriting");
+      // let musbatSon = 0
+      // if (a > 0) {
+      //   musbatSon ++
+      // }if (b > 0){
+      //   musbatSon++
+      // }
+      // if (c > 0){
+      //   musbatSon++
+      // }
+      // alert("musbat son "  ,+ musbatSon)
+
+
+       // if 3 - masala
+
+     let a = +prompt("a sonini kiriting");
+     let b = +prompt("b sonini kiriting");
+     let c = +prompt("c sonini kiriting");
+     let  katta = a;
+     let  kichik = a;
+     if (b  < kichik) {
+        kichik = b
+     }if ( c < kichik){
+       kichik = c
+     }
+   
+     if (b  > katta) {
+        katta = b
+     }if ( c > katta){
+       katta = c
+     }
+   
+     alert("kichikSon "  ,kichik)
+     alert("kattaSon "  ,katta)
