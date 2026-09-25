@@ -448,4 +448,17 @@
       //     alert(" false")
       // }
 
-      //Boolean10.
+     //Boolean10.
+      //  let son = +prompt(" uch sonini kiriting");
+      //  if (son > 99 && son <= 999 && son % 2 !== 0) {
+      //    alert("true")
+      //  }else{
+      //      alert(" false")
+      //  }
+
+      //Boolean11.
+
+      let a = +prompt("a sonini kiriting");
+      let b = +prompt("b sonini kiriting");
+      let c = +prompt("c sonini kiriting");
+      
