@@ -458,7 +458,12 @@
 
       //Boolean11.
 
-      let a = +prompt("a sonini kiriting");
-      let b = +prompt("b sonini kiriting");
-      let c = +prompt("c sonini kiriting");
-      
+      // let a = +prompt("a sonini kiriting");
+      // let b = +prompt("b sonini kiriting");
+      // let c = +prompt("c sonini kiriting");
+      //  if (a === -b || a === -c || b === -c) {
+      //   alert("true")
+      // }else{
+      //     alert(" false")
+      // }
+       
