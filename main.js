@@ -409,13 +409,33 @@
 
 
     //Boolean7.
-    let a = +prompt("a sonini kiriting");
-    let b = +prompt("b sonini kiriting");
-    let c = +prompt("c sonini kiriting")
+    // let a = +prompt("a sonini kiriting");
+    // let b = +prompt("b sonini kiriting");
+    // let c = +prompt("c sonini kiriting")
 
-    if( (a > 0) && (b > 0) && (c > 0) ){
-       alert("true")
-     }else{
-        ("false")
-     }
+    // if( (a > 0) && (b > 0) && (c > 0) ){
+    //    alert("true")
+    //  }else{
+    //     ("false")
+    //  }
     
+    //Boolean8.
+    //  let a = +prompt("a sonini kiriting");
+    //  let b = +prompt("b sonini kiriting");
+    //  let c = +prompt("c sonini kiriting")
+    //  if( (a > 0) && (b <= 0) && (c <= 0) ||  (a <= 0) && (b > 0) && (c <= 0) || (a <= 0) && (b <= 0) && (c > 0)){
+    //     alert("true")
+    //   }
+    // else{
+    //      alert("false")
+    //   }
+    //Boolean9.
+    //  let a = +prompt("a sonini kiriting");
+    //  let b = +prompt("b sonini kiriting");
+    //  let c = +prompt("c sonini kiriting")
+    //  if( (a > 0) && (b > 0) && (c <= 0) ||  (a > 0) && (b <= 0) && (c > 0) || (a <= 0) && (b > 0) && (c > 0) ){
+    //     alert("true")
+    //   }
+    // else{
+    //      alert("false")
+    //   }
