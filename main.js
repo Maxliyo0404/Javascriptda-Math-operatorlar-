@@ -559,3 +559,47 @@
    
     //  alert("kichikSon "  ,kichik)
     //  alert("kattaSon "  ,katta)
+
+ // if 4 - masala
+//     let a = +prompt("1-sonni kiriting:");
+// let b = +prompt("2-sonni kiriting:");
+// let c = +prompt("3-sonni kiriting:");
+
+// if (a === b) {
+//     alert("Farq qiluvchi son 3-son (c), tartib raqami: 3" );
+// } 
+// else if (a === c) {
+//     alert("Farq qiluvchi son 2-son (b), tartib raqami: 2");
+// } 
+// else if (b === c) {
+//     alert("Farq qiluvchi son 1-son (a), tartib raqami: 1");
+// }
+
+ // if 5 - masala
+
+// let X = +prompt("x sonini kiriting:");
+//  let  natija;
+//  if (X < -2 || X > 2) {
+//    natija = 2 * X;
+//  }else{
+//   natija = -3 * X;
+//  }
+//  alert(  "natija ="+ natija);
+
+let son = +prompt("sonni kiriting:");
+
+if (son === 0) {
+  alert("nol")
+}else if (son > 0){
+    if (son % 2 === 0) {
+      alert("musbat juft son")
+    }else{
+      alert("musbat toq son")
+    }
+}else{
+  if (son % 2 === 0) {
+    alert("manfuy juft son")
+  }else  {
+     alert("manfuy toq son")
+  }
+}
