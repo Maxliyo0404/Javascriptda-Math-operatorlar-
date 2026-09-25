@@ -439,3 +439,13 @@
     // else{
     //      alert("false")
     //   }
+
+     //Boolean9.
+      // let son = +prompt(" ikki sonini kiriting");
+      // if (son >= 10 && son <= 99 && son % 2 === 0) {
+      //   alert("true")
+      // }else{
+      //     alert(" false")
+      // }
+
+      //Boolean10.
