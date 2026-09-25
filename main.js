@@ -540,22 +540,22 @@
 
        // if 3 - masala
 
-     let a = +prompt("a sonini kiriting");
-     let b = +prompt("b sonini kiriting");
-     let c = +prompt("c sonini kiriting");
-     let  katta = a;
-     let  kichik = a;
-     if (b  < kichik) {
-        kichik = b
-     }if ( c < kichik){
-       kichik = c
-     }
+    //  let a = +prompt("a sonini kiriting");
+    //  let b = +prompt("b sonini kiriting");
+    //  let c = +prompt("c sonini kiriting");
+    //  let  katta = a;
+    //  let  kichik = a;
+    //  if (b  < kichik) {
+    //     kichik = b
+    //  }if ( c < kichik){
+    //    kichik = c
+    //  }
    
-     if (b  > katta) {
-        katta = b
-     }if ( c > katta){
-       katta = c
-     }
+    //  if (b  > katta) {
+    //     katta = b
+    //  }if ( c > katta){
+    //    katta = c
+    //  }
    
-     alert("kichikSon "  ,kichik)
-     alert("kattaSon "  ,katta)
+    //  alert("kichikSon "  ,kichik)
+    //  alert("kattaSon "  ,katta)
