@@ -440,7 +440,7 @@
     //      alert("false")
     //   }
 
-     //Boolean9.
+     //Boolean10.
       // let son = +prompt(" ikki sonini kiriting");
       // if (son >= 10 && son <= 99 && son % 2 === 0) {
       //   alert("true")
@@ -448,7 +448,7 @@
       //     alert(" false")
       // }
 
-     //Boolean10.
+     //Boolean11.
       //  let son = +prompt(" uch sonini kiriting");
       //  if (son > 99 && son <= 999 && son % 2 !== 0) {
       //    alert("true")
@@ -456,7 +456,7 @@
       //      alert(" false")
       //  }
 
-      //Boolean11.
+      //Boolean12.
 
       // let a = +prompt("a sonini kiriting");
       // let b = +prompt("b sonini kiriting");
@@ -466,11 +466,48 @@
       // }else{
       //     alert(" false")
       // }
-        //Boolean12.
+        //Boolean13.
 
         
-       let son = +prompt("uch xonali sonini kiriting");
+      //  let son = +prompt("uch xonali sonini kiriting");
 
-       let a  = Math.floor(son / 100)
-       let b  = Math.floor((son / 10) % 10)
-       let c  = son % 10
+      //  let a  = Math.floor(son / 100)
+      //  let b  = Math.floor((son / 10) % 10)
+      //  let c  = son % 10
+        
+      //  if (a < b && b < c) {
+      //   alert("true")
+      //  }else{
+      //      alert(" false")
+      //  }
+      
+        //Boolean14.
+
+        
+      //  let son = +prompt("uch xonali sonini kiriting");
+
+      //  let a  = Math.floor(son / 100)
+      //  let b  = Math.floor((son / 10) % 10)
+      //  let c  = son % 10
+        
+      //  if ((a < b && b < c) || (a > b && b > c) ) {
+      //   alert("true")
+      //  }else{
+      //      alert(" false")
+      //  }
+      
+
+      //   //Boolean15.
+      //   let son = 255;
+      //    let a  = Math.floor(son / 100)
+      //   let b  = Math.floor((son / 10) % 10)
+      //   let c  = son % 10
+
+      //   if (a === c) {
+      //     alert("true")
+      //  }else{
+      //      alert(" false")
+      //  }
+    
+
+      // if 1-masala
