@@ -508,6 +508,9 @@
       //  }else{
       //      alert(" false")
       //  }
+
+
+      //Integer7.
     
 
       // if 1-masala
@@ -676,4 +679,12 @@
  // case 9- masala
 
  let yosh = +prompt("20 - 69 orasida son kiriting");
+ switch (yosh) {
+  case 1:
+    console.log();
+    
+    break;
  
+  default:
+    break;
+ }
