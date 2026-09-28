@@ -660,10 +660,10 @@
     console.log("Natijani ayirish");
     
   case 3:
-    natija = A + B;
-    console.log("Natijani qo'shish");
+    natija = A * B;
+    console.log("Natijani лщэзфнешкшыр");
     break;
-  case 2 :
+  case 4 :
     natija = A - B;
     console.log("Natijani ayirish");
     
