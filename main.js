@@ -586,20 +586,25 @@
 //  }
 //  alert(  "natija ="+ natija);
 
-let son = +prompt("sonni kiriting:");
 
-if (son === 0) {
-  alert("nol")
-}else if (son > 0){
-    if (son % 2 === 0) {
-      alert("musbat juft son")
-    }else{
-      alert("musbat toq son")
-    }
-}else{
-  if (son % 2 === 0) {
-    alert("manfuy juft son")
-  }else  {
-     alert("manfuy toq son")
-  }
-}
+ // if 6 - masala
+// let son = +prompt("sonni kiriting:");
+
+// if (son === 0) {
+//   alert("nol")
+// }else if (son > 0){
+//     if (son % 2 === 0) {
+//       alert("musbat juft son")
+//     }else{
+//       alert("musbat toq son")
+//     }
+// }else{
+//   if (son % 2 === 0) {
+//     alert("manfuy juft son")
+//   }else  {
+//      alert("manfuy toq son")
+//   }
+// }
+
+
+ // if 6 - masala
