@@ -512,9 +512,9 @@
 
       //Integer7.
       
-      let N = 360;
-      let minut = Math.floor(N / 60);
-      console.log(minut);
+      // let N = 360;
+      // let minut = Math.floor(N / 60);
+      // console.log("Minut = ",minut);
       
 
       // if 1-masala
