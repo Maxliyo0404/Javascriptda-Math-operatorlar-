@@ -666,7 +666,8 @@
   case 4 :
     natija = A / B;
     console.log("Natijani bo'lish");
-    
+     break;
   default:
-    break;
+    console.log("Xato: Bunday amal raqami mavjud emas! (1 dan 4 gacha kiriting)");
+    
  }
