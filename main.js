@@ -533,7 +533,7 @@
       
        let N = 8990;
        let soat = Math.floor(N / 3600);
-       let sekund = N % 60
+       let sekund = N % 3600;
        console.log(`${soat} soat, ${sekund} sekund o'tdi`);
       
 
