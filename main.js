@@ -527,7 +527,7 @@
       let N = 7800;
       let minut = Math.floor(N / 60);
       let sekund = N % 60
-      //  console.log("Minut = ",minut);
+      console.log("Minut  ",minut + "Sekund " ,sekund);
       
 
       // if 1-masala
