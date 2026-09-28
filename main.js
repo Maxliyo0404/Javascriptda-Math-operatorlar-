@@ -516,6 +516,12 @@
       // let minut = Math.floor(N / 60);
       // console.log("Minut = ",minut);
       
+      //Integer8.
+      
+       let N = 7200;
+       let soat = Math.floor(N / 3600);
+       console.log("Minut = ",soat);
+      
 
       // if 1-masala
 
