@@ -645,27 +645,27 @@
  switch (raqam) {
   case 1:
     natija = A + B;
-    console.log("Natijani qo'shish");
+    console.log("Natijani qo'shish", natija);
     break;
   case 2 :
     natija = A - B;
-    console.log("Natijani ayirish");
+    console.log("Natijani ayirish", natija);
     
   case 1:
     natija = A + B;
-    console.log("Natijani qo'shish");
+    console.log("Natijani qo'shish", natija);
     break;
   case 2 :
     natija = A - B;
-    console.log("Natijani ayirish");
+    console.log("Natijani ayirish" , natija);
     
   case 3:
     natija = A * B;
-    console.log("Natijani ko'paytirish");
+    console.log("Natijani ko'paytirish" ,natija);
     break;
   case 4 :
     natija = A / B;
-    console.log("Natijani bo'lish");
+    console.log("Natijani bo'lish" ,natija);
      break;
   default:
     console.log("Xato: Bunday amal raqami mavjud emas! (1 dan 4 gacha kiriting)");
