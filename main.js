@@ -528,6 +528,13 @@
       // let minut = Math.floor(N / 60);
       // let sekund = N % 60
       // console.log(`${minut} minut, ${sekund} sekund o'tdi`);
+
+      //Integer10.
+      
+       let N = 8990;
+       let minut = Math.floor(N / 3600);
+       let sekund = N % 60
+       console.log(`${minut} minut, ${sekund} sekund o'tdi`);
       
 
       // if 1-masala
