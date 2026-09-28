@@ -520,13 +520,14 @@
       
       //  let N = 7200;
       //  let soat = Math.floor(N / 3600);
-      //  console.log("Minut = ",soat);
+      //  console.log("Soat = ",soat);
       
       //Integer9.
       
       //  let N = 7800;
       //  let minut = Math.floor(N / 60);
-      //  console.log("Minut = ",soat);
+      let sekund = N %
+      //  console.log("Minut = ",minut);
       
 
       // if 1-masala
