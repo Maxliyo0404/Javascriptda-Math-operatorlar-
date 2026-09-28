@@ -638,36 +638,36 @@
  //}
 
  // case 8 - masala
- let A = 8;
- let B = 4;
- let raqam = 1;
- let natija;
- switch (raqam) {
-  case 1:
-    natija = A + B;
-    console.log("Natijani qo'shish", natija);
-    break;
-  case 2 :
-    natija = A - B;
-    console.log("Natijani ayirish", natija);
+//  let A = 8;
+//  let B = 4;
+//  let raqam = 1;
+//  let natija;
+//  switch (raqam) {
+//   case 1:
+//     natija = A + B;
+//     console.log("Natijani qo'shish", natija);
+//     break;
+//   case 2 :
+//     natija = A - B;
+//     console.log("Natijani ayirish", natija);
     
-  case 1:
-    natija = A + B;
-    console.log("Natijani qo'shish", natija);
-    break;
-  case 2 :
-    natija = A - B;
-    console.log("Natijani ayirish" , natija);
+//   case 1:
+//     natija = A + B;
+//     console.log("Natijani qo'shish", natija);
+//     break;
+//   case 2 :
+//     natija = A - B;
+//     console.log("Natijani ayirish" , natija);
     
-  case 3:
-    natija = A * B;
-    console.log("Natijani ko'paytirish" ,natija);
-    break;
-  case 4 :
-    natija = A / B;
-    console.log("Natijani bo'lish" ,natija);
-     break;
-  default:
-    console.log("Xato: Bunday amal raqami mavjud emas! (1 dan 4 gacha kiriting)");
+//   case 3:
+//     natija = A * B;
+//     console.log("Natijani ko'paytirish" ,natija);
+//     break;
+//   case 4 :
+//     natija = A / B;
+//     console.log("Natijani bo'lish" ,natija);
+//      break;
+//   default:
+//     console.log("Xato: Bunday amal raqami mavjud emas! (1 dan 4 gacha kiriting)");
     
- }
+//  }
