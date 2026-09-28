@@ -511,7 +511,9 @@
 
 
       //Integer7.
-    
+      
+      let N = 360;
+      
 
       // if 1-masala
 
