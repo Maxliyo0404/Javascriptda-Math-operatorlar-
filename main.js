@@ -524,9 +524,9 @@
       
       //Integer9.
       
-      //  let N = 7800;
-      //  let minut = Math.floor(N / 60);
-      let sekund = N %
+      let N = 7800;
+      let minut = Math.floor(N / 60);
+      let sekund = N % 60
       //  console.log("Minut = ",minut);
       
 
