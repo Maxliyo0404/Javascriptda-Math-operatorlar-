@@ -647,7 +647,26 @@
     natija = A + B;
     console.log("Natijani qo'shish");
     break;
- 
+  case 2 :
+    natija = A - B;
+    console.log("Natijani ayirish");
+    
+  case 1:
+    natija = A + B;
+    console.log("Natijani qo'shish");
+    break;
+  case 2 :
+    natija = A - B;
+    console.log("Natijani ayirish");
+    
+  case 3:
+    natija = A + B;
+    console.log("Natijani qo'shish");
+    break;
+  case 2 :
+    natija = A - B;
+    console.log("Natijani ayirish");
+    
   default:
     break;
  }
