@@ -608,3 +608,17 @@
 
 
  // if 6 - masala
+
+
+ let raqam = 5;
+ switch(raqam){
+  case 1:
+    console.log("Dushanba");
+    break;
+    case 2:
+      console.log("Seshanba");
+      break;
+      
+      
+    
+ }
