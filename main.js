@@ -661,11 +661,11 @@
     
   case 3:
     natija = A * B;
-    console.log("Natijani лщэзфнешкшыр");
+    console.log("Natijani ko'paytirish");
     break;
   case 4 :
     natija = A / B;
-    console.log("Natijani ayirish");
+    console.log("Natijani bo'lish");
     
   default:
     break;
