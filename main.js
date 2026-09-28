@@ -531,10 +531,10 @@
 
       //Integer10.
       
-       let N = 8990;
-       let soat = Math.floor(N / 3600);
-       let sekund = N % 3600;
-       console.log(`${soat} soat, ${sekund} sekund o'tdi`);
+      //  let N = 8990;
+      //  let soat = Math.floor(N / 3600);
+      //  let sekund = N % 3600;
+      //  console.log(`${soat} soat, ${sekund} sekund o'tdi`);
       
 
       // if 1-masala
