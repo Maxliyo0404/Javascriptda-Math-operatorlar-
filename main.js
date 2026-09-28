@@ -671,3 +671,9 @@
 //     console.log("Xato: Bunday amal raqami mavjud emas! (1 dan 4 gacha kiriting)");
     
 //  }
+
+
+ // case 9- masala
+
+ let yosh = +prompt("20 - 69 orasida son kiriting");
+ 
