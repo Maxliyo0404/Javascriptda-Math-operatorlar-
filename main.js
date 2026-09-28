@@ -664,7 +664,7 @@
     console.log("Natijani лщэзфнешкшыр");
     break;
   case 4 :
-    natija = A - B;
+    natija = A / B;
     console.log("Natijani ayirish");
     
   default:
