@@ -607,7 +607,7 @@
 // }
 
 
- // if 6 - masala
+ // case 7 - masala
 
 
 //  let raqam = 3;
@@ -634,13 +634,20 @@
 //                 console.log("Yakshanba");
 //                 break;
 //                 default:
-//                   console.log("Xato faqat 1 va 7 orasidagi shonni kiritin");
-                  
-                
-              
-            
-          
-        
-      
-    
+//                   console.log("Xato faqat 1 va 7 orasidagi shonni kiritin");   
+ //}
+
+ // case 8 - masala
+ let A = 8;
+ let B = 4;
+ let raqam = 1;
+ let natija;
+ switch (raqam) {
+  case 1:
+    natija = A + B;
+    console.log("Natijani qo'shish");
+    break;
+ 
+  default:
+    break;
  }
