@@ -797,11 +797,14 @@
 //if.8
 let A = +prompt("A sonini kiriting:");
 let B = +prompt("B sonini kiriting:");
-if (A !== B) {
-  let yigindi = A + B;
-  A = yigindi;
-  B = yigindi;
-}else{
+if (A > B) {
+  B = A;
+}else if(B > A){
+  A = B
+}
+
+
+else{
   A = 0;
   B = 0;
 }
