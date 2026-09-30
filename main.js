@@ -745,3 +745,16 @@
     //  }else{
     //   alert("Ikkala son o'zaro teng: " + a)
     //  }
+
+     //if.5
+
+    //  let a = +prompt("1-sonni kiriting (a):");
+    //  let b = +prompt("2-sonni kiriting (b):");
+
+    //   if (a < b) {
+    //       alert("Kichik sonning tartib raqami: 1");
+    //   } else if (b < a) {
+    //       alert("Kichik sonning tartib raqami: 2");
+    //   } else {
+    //       alert("Ikkala son o'zaro teng.");
+    //   }  
