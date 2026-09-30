@@ -887,3 +887,14 @@
       //   b = -b;
       //   c = -c;
       // }alert("a :" + a +  ", b :" + b + ", c:" + c)
+
+       //if.15
+
+let a = +prompt("1-sonni kiriting (a):");
+let b = +prompt("2-sonni kiriting (b):");
+let c = +prompt("3-sonni kiriting (c):");
+let d = +prompt("4-sonni kiriting (d):");
+
+      if (a === b && a === c && c !==d) {
+        
+      }
