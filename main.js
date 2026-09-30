@@ -828,16 +828,16 @@
 
   //if.11
 
-    let a = +prompt("a sonini kiriting");
-    let b = +prompt("b sonini kiriting");
-    let c = +prompt("c sonini kiriting");
-    let orta;
-    if ((a >= b && a <= c) || (a <= b && a >= c) ) {
-      orta = a;
-    }else if ((b >= a && b <= c) || (b <= a && b >= c)) {
-      orta = b
-    }else if ((c >= a && c <= b) || (c <= a && c >= b)) {
-      orta = c
-    }
-    alert("o'rtadagi son = " + orta);
+    // let a = +prompt("a sonini kiriting");
+    // let b = +prompt("b sonini kiriting");
+    // let c = +prompt("c sonini kiriting");
+    // let orta;
+    // if ((a >= b && a <= c) || (a <= b && a >= c) ) {
+    //   orta = a;
+    // }else if ((b >= a && b <= c) || (b <= a && b >= c)) {
+    //   orta = b
+    // }else if ((c >= a && c <= b) || (c <= a && c >= b)) {
+    //   orta = c
+    // }
+    // alert("o'rtadagi son = " + orta);
    
