@@ -736,12 +736,12 @@
     // }alert("musbatsonlar soni =" + musbatSon)
 
        //if.4
-     let a = +prompt("a sonini kiriting");
-     let b = +prompt("b sonini kiriting");
-     if (a > b) {
-      alert("Katta son: " + a);
-     }else if(b > a){
-         alert("Katta son: " + a);
-     }else{
-      alert("Ikkala son o'zaro teng: " + a)
-     }
+    //  let a = +prompt("a sonini kiriting");
+    //  let b = +prompt("b sonini kiriting");
+    //  if (a > b) {
+    //   alert("Katta son: " + a);
+    //  }else if(b > a){
+    //      alert("Katta son: " + a);
+    //  }else{
+    //   alert("Ikkala son o'zaro teng: " + a)
+    //  }
