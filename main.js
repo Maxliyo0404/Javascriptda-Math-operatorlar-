@@ -890,10 +890,10 @@
 
        //if.15
 
-let a = +prompt("1-sonni kiriting (a):");
-let b = +prompt("2-sonni kiriting (b):");
-let c = +prompt("3-sonni kiriting (c):");
-let d = +prompt("4-sonni kiriting (d):");
+// let a = +prompt("1-sonni kiriting (a):");
+// let b = +prompt("2-sonni kiriting (b):");
+// let c = +prompt("3-sonni kiriting (c):");
+// let d = +prompt("4-sonni kiriting (d):");
 
 //       if (b === c && c === d && a !== b) {
 //         alert("Farqli sonning tartib raqami: 1");
