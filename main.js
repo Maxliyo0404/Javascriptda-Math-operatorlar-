@@ -815,13 +815,13 @@
 
 //if.10
 
-   let a = +prompt("a sonini kiriting");
-   let b = +prompt("b sonini kiriting");
-   let c = +prompt("c sonini kiriting");
-   let kichik = a
-   if (b < kichik) {
-    kichik = b;
-   }if (c < kichik) {
-    kichik = c;
-   }
-   alert("eng kichik son " + kichik)
+  //  let a = +prompt("a sonini kiriting");
+  //  let b = +prompt("b sonini kiriting");
+  //  let c = +prompt("c sonini kiriting");
+  //  let kichik = a
+  //  if (b < kichik) {
+  //   kichik = b;
+  //  }if (c < kichik) {
+  //   kichik = c;
+  //  }
+  //  alert("eng kichik son " + kichik)
