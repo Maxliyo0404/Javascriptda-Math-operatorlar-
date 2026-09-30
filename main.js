@@ -794,3 +794,15 @@ if (A !== B) {
   B = 0;
 }
 alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
+//if.8
+let A = +prompt("A sonini kiriting:");
+let B = +prompt("B sonini kiriting:");
+if (A !== B) {
+  let yigindi = A + B;
+  A = yigindi;
+  B = yigindi;
+}else{
+  A = 0;
+  B = 0;
+}
+alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
