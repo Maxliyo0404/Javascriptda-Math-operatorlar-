@@ -904,10 +904,4 @@ let d = +prompt("4-sonni kiriting (d):");
 //       }else if (a === b && b === c && d !== a) {
 //          alert("Farqli sonning tartib raqami: 4");
 //       }
-      if (b === c && c === d && a!== b) {
-        alert("1")
-      }else if (a === c && c === d && b!== a) {
-        alert("2")
-      }else if (a === b && b=== d && c !== a) {
-        alert("3")
-      }
+    
