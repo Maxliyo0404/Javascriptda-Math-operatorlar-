@@ -758,3 +758,15 @@
     //   } else {
     //       alert("Ikkala son o'zaro teng.");
     //   }  
+
+     //if.6
+
+     let a = +prompt("1-sonni kiriting (a):");
+     let b = +prompt("2-sonni kiriting (b):");
+
+if (a > b) {
+   
+    alert("Kattasi: " + a + ", Kichigi: " + b);
+} else {
+    alert("Kattasi: " + b + ", Kichigi: " + a);
+}
