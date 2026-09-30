@@ -856,3 +856,34 @@
     //    alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b);
     // }
     // alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b)
+
+
+    //if.13
+
+      // let a = +prompt("a sonini kiriting");
+      // let b = +prompt("b sonini kiriting");
+      // let c = +prompt("c sonini kiriting");
+      // if (a < b && b < c) {
+      //   a = a *2
+      //   b = b *2
+      //   c = c *2
+      // }else{
+      //   a = -a;
+      //   b = -b;
+      //   c = -c;
+      // }alert("a :" + a +  ", b :" + b + ", c:" + c)
+
+    //if.14
+
+      let a = +prompt("a sonini kiriting");
+      let b = +prompt("b sonini kiriting");
+      let c = +prompt("c sonini kiriting");
+      if ((a < b && b < c) || (a > b && b > c)) {
+        a = a *2
+        b = b *2
+        c = c *2
+      }else{
+        a = -a;
+        b = -b;
+        c = -c;
+      }alert("a :" + a +  ", b :" + b + ", c:" + c)
