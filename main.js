@@ -794,7 +794,9 @@
 //   B = 0;
 // }
 // alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
-//if.8
+
+
+//if.9
 // let A = +prompt("A sonini kiriting:");
 // let B = +prompt("B sonini kiriting:");
 // if (A > B) {
@@ -809,3 +811,17 @@
 //   B = 0;
 // }
 // alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
+
+
+//if.10
+
+   let a = +prompt("a sonini kiriting");
+   let b = +prompt("b sonini kiriting");
+   let c = +prompt("c sonini kiriting");
+   let kichik = a
+   if (b < kichik) {
+    kichik = b;
+   }if (c < kichik) {
+    kichik = c;
+   }
+   alert("eng kichik son " + kichik)
