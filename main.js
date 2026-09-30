@@ -723,3 +723,14 @@
   // alert("Hosil bo'lgan son: " + son);
 
    //if.3
+    // let a = +prompt("a sonini kiriting");
+    // let b = +prompt("b sonini kiriting");
+    // let c = +prompt("c sonini kiriting");
+    // let musbatSon = 0
+    // if (a > 0) {
+    //   musbatSon++;
+    // }if (b > 0) {
+    //    musbatSon++;
+    // }if (c > 0) {
+    //    musbatSon++;
+    // }alert("musbatsonlar soni =" + musbatSon)
