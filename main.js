@@ -844,15 +844,15 @@
 
       //if.12
 
-    let a = +prompt("a sonini kiriting");
-    let b = +prompt("b sonini kiriting");
-    let c = +prompt("c sonini kiriting");
+    // let a = +prompt("a sonini kiriting");
+    // let b = +prompt("b sonini kiriting");
+    // let c = +prompt("c sonini kiriting");
 
-    if (a <= b && a <= c) {
-      alert("Yig'indisi eng katta bo'ladigan sonlar: " + b + " va " + c);
-    }else if (b <= a && b <= c) {
-       alert("Yig'indisi eng katta bo'ladigan sonlar: " + c + " va " + c);
-    }else if (c <= a && c <= b) {
-       alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b);
-    }
-    alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b)
+    // if (a <= b && a <= c) {
+    //   alert("Yig'indisi eng katta bo'ladigan sonlar: " + b + " va " + c);
+    // }else if (b <= a && b <= c) {
+    //    alert("Yig'indisi eng katta bo'ladigan sonlar: " + c + " va " + c);
+    // }else if (c <= a && c <= b) {
+    //    alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b);
+    // }
+    // alert("Yig'indisi eng katta bo'ladigan sonlar: " + a + " va " + b)
