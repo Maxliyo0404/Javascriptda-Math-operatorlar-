@@ -895,6 +895,8 @@ let b = +prompt("2-sonni kiriting (b):");
 let c = +prompt("3-sonni kiriting (c):");
 let d = +prompt("4-sonni kiriting (d):");
 
-      if (a === b && a === c && c !==d) {
+      if (b === c && c === d && a !== b) {
+        alert("Farqli sonning tartib raqami: 1");
+      }else if (a === c && c === d) {
         
       }
