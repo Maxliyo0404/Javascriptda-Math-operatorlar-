@@ -770,3 +770,13 @@
 // } else {
 //     alert("Kattasi: " + b + ", Kichigi: " + a);
 // }
+
+//if.7
+let A = +prompt("A sonini kiriting:");
+let B = +prompt("B sonini kiriting:");
+if (A > B) {
+  let temp = A;
+  A = B;
+  B = temp;
+}
+alert("A ning yangi qiymati: "  + A + ", B ning yangi qiymati: " + B);
