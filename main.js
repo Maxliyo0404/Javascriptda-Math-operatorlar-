@@ -795,17 +795,17 @@
 // }
 // alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
 //if.8
-let A = +prompt("A sonini kiriting:");
-let B = +prompt("B sonini kiriting:");
-if (A > B) {
-  B = A;
-}else if(B > A){
-  A = B
-}
+// let A = +prompt("A sonini kiriting:");
+// let B = +prompt("B sonini kiriting:");
+// if (A > B) {
+//   B = A;
+// }else if(B > A){
+//   A = B
+// }
 
 
-else{
-  A = 0;
-  B = 0;
-}
-alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
+// else{
+//   A = 0;
+//   B = 0;
+// }
+// alert("A ning qiymati: " + A + ", B ning qiymati: " + B);
