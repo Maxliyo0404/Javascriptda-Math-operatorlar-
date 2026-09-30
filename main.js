@@ -895,8 +895,19 @@ let b = +prompt("2-sonni kiriting (b):");
 let c = +prompt("3-sonni kiriting (c):");
 let d = +prompt("4-sonni kiriting (d):");
 
-      if (b === c && c === d && a !== b) {
-        alert("Farqli sonning tartib raqami: 1");
-      }else if (a === c && c === d) {
-        
+//       if (b === c && c === d && a !== b) {
+//         alert("Farqli sonning tartib raqami: 1");
+//       }else if (a === c && c === d && b !== a) {
+//          alert("Farqli sonning tartib raqami: 2");
+//       }else if (a === b && b === d && c !== a) {
+//          alert("Farqli sonning tartib raqami: 3");
+//       }else if (a === b && b === c && d !== a) {
+//          alert("Farqli sonning tartib raqami: 4");
+//       }
+      if (b === c && c === d && a!== b) {
+        alert("1")
+      }else if (a === c && c === d && b!== a) {
+        alert("2")
+      }else if (a === b && b=== d && c !== a) {
+        alert("3")
       }
