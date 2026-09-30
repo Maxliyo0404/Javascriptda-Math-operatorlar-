@@ -712,12 +712,14 @@
   // }
   // alert("Hosil bo'lgan son: " + son);
   //if.2
-  let son = +prompt(" sonini kiriting");
-  if (son > 0) {
-    son = son + 1
-  }else if (son < 0) {
-     son = son - 2
-  }else {
-     son = 10
-  }
-  alert("Hosil bo'lgan son: " + son);
+  // let son = +prompt(" sonini kiriting");
+  // if (son > 0) {
+  //   son = son + 1
+  // }else if (son < 0) {
+  //    son = son - 2
+  // }else {
+  //    son = 10
+  // }
+  // alert("Hosil bo'lgan son: " + son);
+
+   //if.3
